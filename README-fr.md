@@ -15,7 +15,7 @@ Un bot Discord basé sur <a href="https://github.com/hydrabolt/discord.js/">disc
 - @botname => Répond quand il est @mentionné
 - Gérer les channels!
 
-Et encore plus ! Essayez `!help` pour obtenir une liste complète des commandes
+Et encore plus ! Essayez `!help` pour obtenir une liste complète des commandes 
 
 # Installation
 
@@ -61,7 +61,7 @@ Vérifiez que vous possédiez bien la clé d'API Google server, qui est située 
 # Lancement
 Avant de lancer le bot pour la première fois, vous devez créer un fichier `auth.json`. Un token ou une adresse mail avec mot de passe d'un compte discord sont requis. Les autres informations d'identification ne sont pas requises pour que le bot s'exécute, mais elles sont vivement recommandées car les commandes qui en dépendent risquent de mal fonctionner. Voir `auth.json.example`.
 
-Pour lancer le bot, exécuter ceci :
+# Pour lancer le bot, exécuter ceci :
 `node discord_bot.js`.
 
 # Mis à jour
